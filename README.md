@@ -71,7 +71,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:27
   Implement a C program to perform arithmetic operations (addition, subtraction, multiplication, division) on two integers using function pointers. The user should input two numbers and select the desired operation from a menu.
-# Date : 24/12/25
+# Date : 29/05/26
 # Aim:
   To implement a C program that uses function pointers to perform arithmetic operations (add, subtract, multiply, divide) on two integers based on user choice.
 # Algorithm:
